@@ -11,12 +11,13 @@ O SysMilk é um projeto de software a ser desenvolvido por discentes do nível m
 
 * [RF001] Monitoramento do funcionamento das máquinas
 
-O sistema deve conceder ao cliente a capacidade de verificar se determinado equipamento se encontra em condições de uso (apta) ou inativa (inapta).
+Descrição: O sistema deve conceder ao cliente a capacidade de verificar se determinado equipamento se encontra em condições de uso (apta) ou inativa (inapta).
 
 Prioridade: Essencial.
 
+
 * [RF002] Monitoramento do funcionamento das máquinas
 
-O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
+Descrição:O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
 
 Prioridade: Essencial.
