@@ -11,7 +11,7 @@ O SysMilk é um projeto de software a ser desenvolvido por discentes do nível m
 
 * [RF001] Monitoramento do funcionamento das máquinas
 
-Descrição: O sistema deve conceder ao cliente a capacidade de verificar se determinado equipamento se encontra em condições de uso (apta) ou inativa (inapta).
+Descrição: O sistema deve conceder ao cliente a capacidade de verificar se determinado equipamento se encontra em condições de uso ativo (apto) ou inativo (inapto).
 
 Prioridade: Essencial.
 
