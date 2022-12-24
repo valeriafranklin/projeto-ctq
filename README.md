@@ -1,10 +1,11 @@
-# Controle de Maquinário - CTq
-Projeto Final da disciplina de Desenvolvimento de Software para auxiliar o Centro de Tecnologia do Queijo.
+# SysMilk - Controle de Maquinário - CTq
+
+O SysMilk é um projeto de software a ser desenvolvido por discentes do nível médio técnico integrado em Informática do IFRN, visando auxiliar a evolução do Centro de Tecnologia do Queijo por meio do controle de maquinário. O software será desenvolvido em Python e fará uso do PostgreSQL 15.1, sendo executado localmente.
 
 
 ## 01. Necessidades do Cliente
 
-O SysMilk é um projeto de software a ser desenvolvido por discentes do nível médio técnico integrado em Informática do IFRN, visando auxiliar a evolução do Centro de Tecnologia do Queijo por meio do controle de maquinário. Pretende-se automatizar o gerenciamento das máquinas e equipamentos, dispondo os dados manipulados em um Banco de Dados e facilitando o serviço dos funcionários, permitindo que hajam consultas e o manuseio de informações. O software será desenvolvido em Python e fará uso do PostgreSQL 15.1, sendo executado localmente.
+O Centro de Tecnologia do Queijo (CTq) do IFCN é um espaço destinado ao desenvolvimento de tarefas práticas que são tanto capazes de capacitar tecnicamente os discentes do curso integrado em Alimentos, quanto essencial no que diz respeito à comunidade do IFRN, tendo em vista que realiza a produção de alimentos lácteos (doce de leite, iogurte e queijo), fortificando a dieta de alunos e servidores que consomem esses produtos. Após uma visita feita ao local, pôde-se observar a lacuna ainda existente em relação ao controle de maquinário. Sendo assim, o presente projeto tem como objetivo automatizar o gerenciamento das máquinas e equipamentos, dispondo os dados manipulados em um Banco de Dados e facilitando o serviço dos funcionários, permitindo que hajam consultas e o manuseio de informações.
 
 
 ## 02. Requisitos
