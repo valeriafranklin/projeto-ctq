@@ -21,7 +21,7 @@ Descrição: O sistema deve conceder ao cliente a capacidade de verificar se det
 Prioridade: Essencial.
 
 
-* [RF002] Monitoramento do funcionamento das máquinas
+* [RF002] Cadastro de máquinas
 
 Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
 
