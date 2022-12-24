@@ -18,6 +18,6 @@ Prioridade: Essencial.
 
 * [RF002] Monitoramento do funcionamento das máquinas
 
-Descrição:O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
+Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
 
 Prioridade: Essencial.
