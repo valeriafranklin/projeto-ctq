@@ -56,4 +56,7 @@ Descrição: O sistema deve conceder ao cliente a capacidade de visualizar a dat
 Prioridade: Essencial.
 
 
+### [RF] Requisitos Não Funcionais
+
+
 ## Diagramação
