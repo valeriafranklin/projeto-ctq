@@ -49,5 +49,11 @@ Descrição: O sistema deve conceder ao cliente a capacidade de verificar se det
 
 Prioridade: Essencial.
 
+* [RF006] Controle de entrada e saída das máquinas
+
+Descrição: O sistema deve conceder ao cliente a capacidade de visualizar a data de chegada (uso) e de saída (desuso) das máquinas.
+
+Prioridade: Essencial.
+
 
 ## Diagramação
