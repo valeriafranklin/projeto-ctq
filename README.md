@@ -26,3 +26,17 @@ Prioridade: Essencial.
 Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
 
 Prioridade: Essencial.
+
+
+* [RF003] Atualização de máquinas
+
+Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de atualizar os dados das máquinas.
+
+Prioridade: Essencial.
+
+
+*[RF004] Deleção de máquinas
+
+Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de deletar máquinas.
+
+Prioridade: Essencial.
