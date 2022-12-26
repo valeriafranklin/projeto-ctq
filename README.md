@@ -9,6 +9,8 @@ O Centro de Tecnologia do Queijo (CTq) do IFCN é um espaço destinado ao desenv
 
 Após uma visita feita ao local, pôde-se observar a lacuna ainda existente em relação ao controle de maquinário. Sendo assim, o presente projeto tem como objetivo automatizar o gerenciamento das máquinas e equipamentos, dispondo os dados manipulados em um Banco de Dados e facilitando o serviço dos funcionários, permitindo que hajam consultas e o manuseio de informações.
 
+O controle de maquinário será capaz de permitir com que os funcionários tenham domínio do que se passa no Centro de Tecnologia, mesmo que não estejam no ambiente. Desse modo, será possível ter ciência das máquinas existentes - por meio dos IDs -, os tipos de máquinas - por meio dos nomes -, a situação das máquinas - por meio do estado - e suas funcionalidades - por meio da função -. Além disso, por consequência, é viável pressupor níveis de desgaste, necessidade de novas compras e a economia de acessórios para entrar no CTq, já que possibilita o acompanhamento externo do maquinário.
+
 
 ## 02. Requisitos
 
