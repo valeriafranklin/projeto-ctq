@@ -16,16 +16,16 @@ O controle de maquinário será capaz de permitir com que os funcionários tenha
 
 ### [RF] Requisitos Funcionais
 
-* [RF001] Monitoramento do funcionamento das máquinas
+* [RF001] Cadastro de máquinas
 
-Descrição: O sistema deve conceder ao cliente a capacidade de verificar se determinado equipamento se encontra em condições de uso ativo (apto) ou inativo (inapto).
+Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
 
 Prioridade: Essencial.
 
 
-* [RF002] Cadastro de máquinas
+* [RF002] Visualização das máquinas
 
-Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de cadastrar novas máquinas.
+Descrição: O sistema deve permitir a consulta das máquinas existentes.
 
 Prioridade: Essencial.
 
@@ -40,5 +40,11 @@ Prioridade: Essencial.
 * [RF004] Deleção de máquinas
 
 Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de deletar máquinas.
+
+Prioridade: Essencial.
+
+* [RF005] Monitoramento do funcionamento das máquinas
+
+Descrição: O sistema deve conceder ao cliente a capacidade de verificar se determinado equipamento se encontra em condições de uso ativo (apto) ou inativo (inapto).
 
 Prioridade: Essencial.
