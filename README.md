@@ -35,7 +35,7 @@ Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e
 Prioridade: Essencial.
 
 
-*[RF004] Deleção de máquinas
+* [RF004] Deleção de máquinas
 
 Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de deletar máquinas.
 
