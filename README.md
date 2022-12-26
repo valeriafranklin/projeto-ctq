@@ -58,5 +58,23 @@ Prioridade: Essencial.
 
 ### [RF] Requisitos Não Funcionais
 
+* [NF001] Controle do nível de desgaste das máquinas
+
+Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de acompanhar a vida útil da máquina a partir do seu nível de desgaste.
+
+Prioridade: Desejável.
+
+* [NF002] Necessidade de manutenção das máquinas
+
+Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de acompanhar a utilização das máquinas e, a partir disso, sinalizar a necessidade de manutenção delas.
+
+Prioridade: Desejável.
+
+* [NF003] Tempo de funcionamento
+
+Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e bolsistas a capacidade de acompanhar o tempo de funcionamento das máquinas, assimilando-o à sua carga horária de serviço.
+
+Prioridade: Opcional.
+
 
 ## Diagramação
