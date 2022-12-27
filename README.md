@@ -81,9 +81,7 @@ Prioridade: Opcional.
 
 ## Análise dos Requisítos e Projeto
 
-### Diagramação
-
-### Casos de uso
+### Diagramação (casos de uso)
 
 Por meio do diagrama de Caso de Uso, é possível analisar a conexão entre o administrador e as funções de cadastrar, monitorar, atualizar e deletar máquinas.
 
