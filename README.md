@@ -86,6 +86,3 @@ Prioridade: Opcional.
 Os requisitos que serão implementados consistem no cadastro, visualização, atualização, monitoramento do funcionamento e deleção de máquinas.
 
 Por meio do diagrama de Caso de Uso, é possível analisar a conexão entre o administrador e as funções de cadastrar, monitorar, atualizar e deletar máquinas.
-
-
-![Diagrama de Casos de Uso](https://i.imgur.com/Io0agfw.png)
