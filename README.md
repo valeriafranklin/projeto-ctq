@@ -79,8 +79,13 @@ Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e
 Prioridade: Opcional.
 
 
-## Diagramação
+## Análise dos Requisítos e Projeto
 
-## Casos de uso
+### Diagramação
+
+### Casos de uso
+
+Por meio do diagrama de Caso de Uso, é possível analisar a conexão entre o administrador e as funções de cadastrar, monitorar, atualizar e deletar máquinas.
+
 
 ![Diagrama de Casos de Uso](https://i.imgur.com/Io0agfw.png)
