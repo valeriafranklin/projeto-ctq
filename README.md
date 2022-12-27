@@ -87,4 +87,4 @@ Os requisitos que serão implementados consistem no cadastro, visualização, at
 
 Por meio do diagrama de Caso de Uso, é possível analisar a conexão entre o administrador e as funções de cadastrar, monitorar, atualizar e deletar máquinas.
 
-![Diagrama de Casos de Uso](https://i.imgur.com/Io0agfw.png)
+![Diagrama de casos de uso](https://i.imgur.com/Io0agfw.png)
