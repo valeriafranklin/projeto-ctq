@@ -81,4 +81,4 @@ Prioridade: Opcional.
 
 ## Diagramação
 
-![Diagrama de Casos de Uso](https://imgur.com/a/QZbFngY)
+![Diagrama de Casos de Uso](https://i.imgur.com/Io0agfw.png)
