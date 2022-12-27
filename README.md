@@ -58,7 +58,7 @@ Descrição: O sistema deve conceder ao cliente a capacidade de visualizar a dat
 Prioridade: Essencial.
 
 
-### [RF] Requisitos Não Funcionais
+### [NF] Requisitos Não Funcionais
 
 * [NF001] Controle do nível de desgaste das máquinas
 
