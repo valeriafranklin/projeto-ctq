@@ -88,5 +88,7 @@ Os requisitos que serão implementados consistem no cadastro, visualização, at
 ![Diagrama de casos de uso](https://i.imgur.com/Io0agfw.png)
 
 
+## 04. Referências Bibliográficas
 
+Da Silva, J. C. B., De Lima, J. R. M., Da Silva, R. R., & Moraes, S. A. D. S. SISTEMA PARA CONTROLE DE MÁQUINAS DE PRODUÇÃO.
 
