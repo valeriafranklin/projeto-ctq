@@ -29,7 +29,7 @@ def JanelaPrincipal():
     conexao = psycopg2.connect(database="postgres", user="postgres", password="1234", host="localhost", port="5432")
     cursor = conexao.cursor()
     
-    #Cadastrar Maquinas na Tabela
+    #Cadastrar Máquinas na Tabela
     def cadastrar_maquina():
         
         messagebox.showinfo(title="Sucesso!",message="A máquina foi cadastrada com sucesso!")
@@ -48,7 +48,7 @@ def JanelaPrincipal():
         cursor.execute(sql1)
         conexao.commit()
 
-    #Remover maquinas
+    #Remover máquinas
     def remover_maquina():
         messagebox.showinfo(title="Sucesso!",message="A máquina foi removida com sucesso!")
         codigo = aba4_CodigoEntry.get()
@@ -76,7 +76,7 @@ def JanelaPrincipal():
     
         aba4_CodigoEntry.delete(0,'end')
 
-    #Atualizar Maquinas
+    #Atualizar Máquinas
     def atualizar_maquina():
         messagebox.showinfo(title="Sucesso!",message="A máquina foi atualizada com sucesso!")
 
@@ -94,7 +94,7 @@ def JanelaPrincipal():
         cursor.execute(sql)
         conexao.commit()
     
-    #Visualizar maquinas
+    #Visualizar máquinas
     def visualizar_maquina():
         sql = "select * from maquinario"
     
@@ -110,7 +110,7 @@ def JanelaPrincipal():
         aba2_Texto.delete(1.0,'end')
         aba2_Texto.insert(END, texto)
 
-    #Aba 1- Cadastrar Maquinas
+    #Aba 1- Cadastrar Máquinas
     aba1 = ttk.Frame(gerenciadorAba)
     gerenciadorAba.add(aba1,text="  Cadastrar Máquina  ")
     gerenciadorAba.pack(expand=1, fill="both")
