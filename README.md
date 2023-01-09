@@ -79,7 +79,7 @@ Descrição: O sistema deve conceder aos coordenadores, professores, técnicos e
 Prioridade: Opcional.
 
 
-## 03. Análise dos Requisítos e Projeto
+## 03. Análise dos Requisitos e Projeto
 
 ### Diagramação (casos de uso)
 
