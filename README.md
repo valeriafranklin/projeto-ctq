@@ -81,12 +81,19 @@ Prioridade: Opcional.
 
 ## 03. Análise dos Requisitos e Projeto
 
-### Diagramação (casos de uso)
+### Diagramação
+
+* Casos de Uso
 
 Os requisitos que serão implementados consistem no cadastro, visualização, atualização, monitoramento do funcionamento e deleção de máquinas. Por meio do diagrama de Caso de Uso, é possível analisar a conexão entre o administrador e as funções de cadastrar, monitorar, atualizar e deletar máquinas.
 
 ![Diagrama de casos de uso](https://i.imgur.com/Io0agfw.png)
 
+* Banco de Dados
+
+Consoante aos requisitos implementados, fez-se necessário o uso auxiliar de um Banco de Dados para o armazenamento das informações coletadas.
+
+![Banco de Dados](https://i.imgur.com/yOg0CtU.png)
 
 ## 04. Referências Bibliográficas
 
