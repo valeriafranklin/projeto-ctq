@@ -98,3 +98,5 @@ Consoante aos requisitos implementados, fez-se necessário o uso auxiliar de um 
 ## 04. Referências Bibliográficas
 
 Da Silva, J. C. B., De Lima, J. R. M., Da Silva, R. R., & Moraes, S. A. D. S. SISTEMA PARA CONTROLE DE MÁQUINAS DE PRODUÇÃO.
+
+Borges, Luiz Eduardo. Python para desenvolvedores: aborda Python 3.3. Novatec Editora, 2014.
