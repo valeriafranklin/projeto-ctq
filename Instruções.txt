@@ -1,0 +1,9 @@
+1 - Utilizar "admin" como usuário e senha para acessar o programa;
+
+2 - Obter as bibliotecas: 
+    pip install psycopg2
+    pip install customtkinter
+    pip install pyinstaller
+    
+3 - Durante os testes, comentar as partes que não serão utilizadas,
+ permitindo, dessa forma, que apenas o trecho testado seja funcional.
