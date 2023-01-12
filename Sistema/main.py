@@ -9,7 +9,7 @@ import psycopg2
 TelaLogin = customtkinter.CTk()
 TelaLogin.title("SysMilk")
 TelaLogin.geometry("490x560+500+130")
-TelaLogin.iconbitmap('imagens\\SysMilk-icone.ico')
+TelaLogin.iconbitmap('Sistema\\imagens\\SysMilk-icone.ico')
 TelaLogin.resizable(False, False)
 customtkinter.set_appearance_mode("Light")
 
@@ -21,7 +21,7 @@ def JanelaPrincipal():
 
     janela = customtkinter.CTk()
     janela.title('SysMilk')
-    janela.iconbitmap('imagens\\SysMilk-icone.ico')
+    janela.iconbitmap('Sistema\\imagens\\SysMilk-icone.ico')
     janela.resizable(False, False)
 
     gerenciadorAba = ttk.Notebook(janela)
